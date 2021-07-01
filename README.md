@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!--
+
 I am a fullstack software engineer from bangladesh
 - 🔭 Working on multiple frontend and backend project using React and Nodejs
 - 🌱 Learning design patterns in depth
@@ -30,4 +30,3 @@ Here are some ideas to get you started:
 ## I’m currently learning ...
 ## I’m looking to collaborate on ...
 ## I’m looking for help with ...
--->
